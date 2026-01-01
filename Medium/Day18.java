@@ -1,8 +1,5 @@
 /*22. Generate Parentheses
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
-
- 
-
 Example 1:
 
 Input: n = 3
@@ -39,3 +36,8 @@ class Solution {
     }
 }
  */
+/*⏱ Time & Space Complexity
+
+Time: O(4ⁿ / √n) (Catalan numbers)
+
+Space: O(4ⁿ / √n) (for storing results + recursion stack) */
