@@ -1,0 +1,4 @@
+{
+    "java.help.collectErrorLog": true,
+    "gradle.javaDebug.cleanOutput": true
+}
