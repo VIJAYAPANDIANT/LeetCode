@@ -1,4 +1,5 @@
 {
     "java.help.collectErrorLog": true,
-    "gradle.javaDebug.cleanOutput": true
+    "gradle.javaDebug.cleanOutput": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml"
 }
