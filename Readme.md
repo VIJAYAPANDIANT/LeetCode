@@ -1,7 +1,5 @@
 # 🚀 LeetCode Solutions Journey
 
-![LeetCode Banner](file:///C:/Users/VIJAYA%20PANDIAN.T/.gemini/antigravity/brain/69ad9ce4-6953-4809-bce5-23f896c67f84/leetcode_banner_1777096385691.png)
-
 ## 📌 Overview
 Welcome to my **LeetCode Solutions** repository! This is a curated collection of my solutions to various algorithmic challenges, categorized by difficulty. This repository serves as a testament to my problem-solving skills, algorithmic thinking, and commitment to continuous learning in Data Structures and Algorithms (DSA).
 
@@ -11,7 +9,7 @@ Welcome to my **LeetCode Solutions** repository! This is a curated collection of
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :--- | :--- | :--- | :--- |
-| **49** | 34 | 11 | 4 |
+| **50** | 34 | 12 | 4 |
 
 ---
 
@@ -41,6 +39,7 @@ Below is a snapshot of some highlighted problems solved during this journey:
 | 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [View](./Easy/Day1.java) |
 | 18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [View](./Medium/Day18.java) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [View](./Hard/Day25.java) |
+| 46 | [Convert Sorted List to BST](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | [View](./Medium/Day46.java) |
 | ... | *More solutions in respective folders* | ... | [Explore All](./) |
 
 ---
