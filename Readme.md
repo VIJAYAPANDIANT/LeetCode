@@ -63,7 +63,7 @@ If you find these solutions helpful, feel free to ⭐ the repository and connect
 
 - **GitHub**: [VIJAYAPANDIANT](https://github.com/VIJAYAPANDIANT)
 - **LinkedIn**: [VIJAYA PANDIAN T](https://www.linkedin.com/in/vijaya-pandian-t/)
-- **LeetCode**: [Profile](https://leetcode.com/u/VIJAYAPANDIANT/)
+- **LeetCode**: [Profile](https://leetcode.com/u/hackervj18/)
 
 ---
 *Happy Coding! 💻🔥*
