@@ -1,49 +1,70 @@
 # 🚀 LeetCode Solutions Journey
 
-Welcome to my **LeetCode Solutions** repository! This repository is a comprehensive collection of my solutions to various LeetCode problems, categorized by difficulty level. It serves as a personal archive of my coding journey, demonstrating my continuous learning and problem-solving skills in Data Structures and Algorithms (DSA).
+![LeetCode Banner](file:///C:/Users/VIJAYA%20PANDIAN.T/.gemini/antigravity/brain/69ad9ce4-6953-4809-bce5-23f896c67f84/leetcode_banner_1777096385691.png)
 
-## 📚 Repository Structure
+## 📌 Overview
+Welcome to my **LeetCode Solutions** repository! This is a curated collection of my solutions to various algorithmic challenges, categorized by difficulty. This repository serves as a testament to my problem-solving skills, algorithmic thinking, and commitment to continuous learning in Data Structures and Algorithms (DSA).
 
-To keep things organized and easy to navigate, all solutions are structured based on their difficulty level as defined by LeetCode:
+---
 
-- **🟢 Easy (`/Easy`)**: Contains solutions to easy-level problems. These are typically foundational problems that help build a strong grasp of basic data structures and algorithms.
-- **🟡 Medium (`/Medium`)**: Contains solutions to medium-level problems. These require a deeper understanding of algorithms and often involve combining multiple data structures to achieve optimal solutions.
-- **🔴 Hard (`/Hard`)**: Contains solutions to hard-level problems. These require advanced algorithmic techniques, optimization strategies, and deep critical thinking.
+## 📊 Progress Statistics
 
-## 🛠️ Tech Stack
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :--- | :--- | :--- | :--- |
+| **49** | 34 | 11 | 4 |
 
-- **Language**: Java ☕ (Mainly used for solving the problems)
-- **Concepts Covered**:
-  - Arrays & Strings
-  - LinkedLists
-  - Trees & Graphs
-  - Dynamic Programming
-  - Backtracking
-  - Sorting & Searching
-  - Hash Maps & Sets
-  - Math & Bit Manipulation
+---
 
-## 🎯 Goals
+## 📂 Repository Structure
+The repository is organized by problem difficulty to facilitate easy navigation:
 
-- **Consistency**: Solve problems regularly to maintain an active coding streak.
-- **Optimization**: Focus on writing clean, efficient, and well-documented code, aiming for the best possible Time and Space Complexities (Big O).
-- **Mastery**: Gain a profound mastery over Data Structures and Algorithms to tackle technical interviews with confidence.
+- **[🟢 Easy](./Easy)**: Foundational problems focusing on basic data structures (Arrays, Strings, Linked Lists).
+- **[🟡 Medium](./Medium)**: Intermediate problems involving complex algorithms (Trees, Graphs, DP, Backtracking).
+- **[🔴 Hard](./Hard)**: Advanced problems requiring deep optimization and complex logic.
 
-## 📝 How to Navigate
+---
 
-Each problem solution is stored in its respective difficulty folder in files named by the day or problem (e.g., `Day1.java`, `Day2.java`).
-Inside the files, you generally will find:
+## 🛠️ Tech Stack & Concepts
+- **Primary Language**: Java ☕
+- **Core Concepts**:
+    - 🧩 **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Graphs.
+    - ⚡ **Algorithms**: Sorting, Searching, Recursion, Dynamic Programming, Greedy, Sliding Window, Two Pointers.
+    - 📉 **Optimization**: Focus on Time and Space Complexity (Big O notation).
 
-1. **Problem Description**: The original problem statement and problem number from LeetCode.
-2. **Examples**: Test cases and examples with expected outputs for better understanding.
-3. **Solution Code**: The Java algorithmic implementation.
+---
 
-## 🤝 Contributing
+## 📅 Progress Tracking
+Below is a snapshot of some highlighted problems solved during this journey:
 
-While this is primarily a personal repository to track my LeetCode progress, feel free to fork it, explore the code, and suggest optimizations or an alternative approach via issues or pull requests!
+| Day | Problem Name | Difficulty | Solution |
+| :--- | :--- | :--- | :--- |
+| 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [View](./Easy/Day1.java) |
+| 18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [View](./Medium/Day18.java) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [View](./Hard/Day25.java) |
+| ... | *More solutions in respective folders* | ... | [Explore All](./) |
 
-## ⭐ Show your support
+---
 
-If you found any of these solutions helpful or inspiring, please give this repository a ⭐ to show your support!
+## 🚀 How to Use
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/VIJAYAPANDIANT/LeetCode.git
+   ```
+2. **Navigate to a folder**:
+   ```bash
+   cd Easy
+   ```
+3. **Open the solution**:
+   Each `.java` file contains the problem statement and the optimized solution.
 
-Happy Coding! 💻🔥
+---
+
+## 🤝 Connect With Me
+If you find these solutions helpful, feel free to ⭐ the repository and connect with me!
+
+- **GitHub**: [VIJAYAPANDIANT](https://github.com/VIJAYAPANDIANT)
+- **LinkedIn**: [VIJAYA PANDIAN T](https://www.linkedin.com/in/vijaya-pandian-t/)
+- **LeetCode**: [Profile](https://leetcode.com/u/VIJAYAPANDIANT/)
+
+---
+*Happy Coding! 💻🔥*
