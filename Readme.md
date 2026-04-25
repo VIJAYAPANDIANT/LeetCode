@@ -1,7 +1,9 @@
-# 🚀 LeetCode Solutions Journey
+# 🚀 50 Days of DSA Challenge - Java
 
 ## 📌 Overview
-Welcome to my **LeetCode Solutions** repository! This is a curated collection of my solutions to various algorithmic challenges, categorized by difficulty. This repository serves as a testament to my problem-solving skills, algorithmic thinking, and commitment to continuous learning in Data Structures and Algorithms (DSA).
+Welcome to my **50 Days of DSA Challenge** repository! This project documents my journey of solving at least one Data Structures and Algorithms problem every day for 50 consecutive days. 
+
+This repository serves as a comprehensive archive of my growth in algorithmic thinking, problem-solving efficiency, and Java mastery. Each solution is carefully crafted to focus on optimal time and space complexity.
 
 ---
 
