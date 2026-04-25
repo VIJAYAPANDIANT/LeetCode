@@ -1,9 +1,11 @@
-# 🚀 50 Days of DSA Challenge - Java
+# 50 Days of DSA Challenge - Java
+
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
+![Challenge](https://img.shields.io/badge/Challenge-50%20Days%20DSA-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📌 Overview
-Welcome to my **50 Days of DSA Challenge** repository! This project documents my journey of solving at least one Data Structures and Algorithms problem every day for 50 consecutive days. 
-
-This repository serves as a comprehensive archive of my growth in algorithmic thinking, problem-solving efficiency, and Java mastery. Each solution is carefully crafted to focus on optimal time and space complexity.
+This repository is a dedicated archive of my **50 Days of DSA Challenge**. Over the course of 50 days, I have consistently solved complex algorithmic problems to sharpen my problem-solving skills and master Data Structures and Algorithms using Java.
 
 ---
 
